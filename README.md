@@ -44,6 +44,15 @@
 </fieldset>
 
 <fieldset>
+<hr size="5" width="100%" align=center color=green>
+    <h1 ALIGN=left > <br> Dowcip o Informatyku </br> </h1>
+    <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
+        - Co mówi informatyk, gdy uderzy się w mały palec u nogi? <br />
+- Ała! mój bit! <br />
+<HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
+</fieldset>
+
+<fieldset>
     <h1 ALIGN=center > <br> Dowcip o Osie </br> </h1>
     <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
 - Jak nazwa się duża osa? <br />
