@@ -31,5 +31,45 @@
 <center> <p> <font color="green" size="2" face="Verdana">Data urodzenia: 02.01.2011 </font> </p> </center><br>
 <b> <sup> H2SO4 </sup> </b>
 <b> <sub> x*x=x2 </sub> </b>
+<body bgcolor="silver">
+<fieldset>
+<hr size="5" width="100%" align=center color=green>
+    <h1 ALIGN=left > <br> Dowcip o Pracy </br> </h1>
+    <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
+        - Edek, dalej pracujesz? <br />
+- Pracowałem na pół etatu ale mnie zwolnili. <br />
+- Dlaczego? <br />
+- Bo to była praca na pełny etat. <br />
+<HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
+</fieldset>
+
+<fieldset>
+    <h1 ALIGN=center > <br> Dowcip o Osie </br> </h1>
+    <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
+- Jak nazwa się duża osa? <br />
+- Bigos! <br />
+<HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
+<p align="left"> Krystian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jerszuk </p>
+     <h1> poniżej są  trzy wyliczenia z różnymi znakami wyliczenia</h1>
+<h1> Ty zaproponuj swoje, związane z informatyką</h1>
+<UL TYPE=circle>  
+<LI> C++   
+<LI> GoDot 
+<LI> HTML 
+<LI> Python 
+</UL>
+<UL TYPE=square>  
+<LI> JavaScript   
+<LI> C#
+<LI> C 
+<LI> Go 
+</UL>
+<UL TYPE=circle>  
+<LI> SQL   
+<LI> Rust 
+<LI> Matlab 
+<LI> Asembler 
+</UL>
+</body>
     </body> 
   </html>
