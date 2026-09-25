@@ -36,7 +36,7 @@
 <b> <sup> H2SO4 </sup> </b>
 <b> <sub> x*x=x2 </sub> </b>
 <body bgcolor="silver">
-<A HREF="poczta.html"> Poczta </A><br>
+<br><A HREF="poczta.html"> Poczta </A><br>
 <A HREF="pliki.html"> Pliki </A><br>
 <A HREF="formularz.html"> Formularz </A><br>
 <A HREF="tabela.html"> Tabela </A><br>
