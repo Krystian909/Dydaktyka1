@@ -6,7 +6,7 @@
              <title>Krystian 1K/P2 </title> 
      </head> 
     <body>
-<A HREF="poczta.html"> Poczta </A><br>
+<br><A HREF="poczta.html"> Poczta </A><br>
 <A HREF="pliki.html"> Pliki </A><br>
 <A HREF="formularz.html"> Formularz </A><br>
 <A HREF="tabela.html"> Tabela </A><br>
