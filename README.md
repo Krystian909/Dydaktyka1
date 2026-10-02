@@ -6,10 +6,10 @@
              <title>Krystian 1K/P2 </title> 
      </head> 
     <body>
-<br><A HREF="poczta.html"> Poczta </A><br>
-<A HREF="pliki.html"> Pliki </A><br>
-<A HREF="formularz.html"> Formularz </A><br>
-<A HREF="tabela.html"> Tabela </A><br>
+<br><A HREF="Poczta.html"> Poczta </A><br>
+<A HREF="Pliki.html"> Pliki </A><br>
+<A HREF="Formularz.html"> Formularz </A><br>
+<A HREF="Tabela.html"> Tabela </A><br>
 <A HREF="PlikDoPobrania.html"> Pobierz </A><br>
 <p align="right"> <font color="red" size="1" face="Arial"> Krystian </font> </p> <br>
 <p align="right"> <font color="red" size="2" face="Arial"> Krystian </font> </p> <br>
@@ -37,10 +37,11 @@
 <b> <sup> H2SO4 </sup> </b>
 <b> <sub> x*x=x2 </sub> </b>
 <body bgcolor="silver">
-<br><A HREF="poczta.html"> Poczta </A><br>
-<A HREF="pliki.html"> Pliki </A><br>
-<A HREF="formularz.html"> Formularz </A><br>
-<A HREF="tabela.html"> Tabela </A><br>
+<br><A HREF="Poczta.html"> Poczta </A><br>
+<A HREF="Pliki.html"> Pliki </A><br>
+<A HREF="Formularz.html"> Formularz </A><br>
+<A HREF="Tabela.html"> Tabela </A><br>
+<A HREF="PlikDoPobrania.html"> Pobierz </A><br>
 <fieldset>
 <hr size="5" width="100%" align=center color=green>
     <h1 ALIGN=left > <br> Dowcip o Pracy </br> </h1>
@@ -94,10 +95,11 @@
 <LI> Matlab 
 <LI> Asembler 
 </UL>
-<A HREF="poczta.html"> Poczta </A><br>
-<A HREF="pliki.html"> Pliki </A><br>
-<A HREF="formularz.html"> Formularz </A><br>
-<A HREF="tabela.html"> Tabela </A><br>
+<A HREF="Poczta.html"> Poczta </A><br>
+<A HREF="Pliki.html"> Pliki </A><br>
+<A HREF="Formularz.html"> Formularz </A><br>
+<A HREF="Tabela.html"> Tabela </A><br>
+<A HREF="PlikDoPobrania.html"> Pobierz </A><br>
 </body>
     </body> 
   </html>
