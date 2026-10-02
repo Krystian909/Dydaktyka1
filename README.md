@@ -11,9 +11,9 @@
 <A HREF="Formularz.html"> Formularz </A><br>
 <A HREF="Tabela.html"> Tabela </A><br>
 <A HREF="PlikDoPobrania.html"> Pobierz </A><br>
-<p align="right"> <font color="red" size=1 face="Arial"> Krystian </font> </p> <br>
-<p align="right"> <font color="red" size=2 face="Arial"> Krystian </font> </p> <br>
-<p align="right"> <font color="red" size=3 face="Arial"> Krystian </font> </p> <br>
+<p align="right"> <font color="red" size="1" face="Arial"> Krystian </font> </p> <br>
+<p align="right"> <font color="red" size="2" face="Arial"> Krystian </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> Krystian </font> </p> <br>
 <p align="right"> <font color="red" size="4" face="Arial"> Krystian </font> </p> <br>
 <p align="right"> <font color="red" size="5" face="Arial"> Krystian </font> </p> <br>
 <p align="right"> <font color="red" size="6" face="Arial"> Krystian </font> </p> <br>
