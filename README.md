@@ -77,6 +77,7 @@
 <p align="left"> Krystian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jerszuk </p>
      <h1> poniżej są  trzy wyliczenia z różnymi znakami wyliczenia</h1>
 <h1> Ty zaproponuj swoje, związane z informatyką</h1>
+	<h3> Języki programowania :</h3>
 <UL TYPE=circle>  
 <LI> C++   
 <LI> GoDot 
