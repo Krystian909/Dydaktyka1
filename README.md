@@ -30,7 +30,7 @@
 <p align="right"> <font color="red" size="3" face="Arial"> >:( - złość </font> </p> <br>
 <p align="right"> <font color="green" size="1" face="Verdana"> XD - śmiech </font> </p> <br>
 <p align="right"> <font color="purple" size="2" face="'Times New Roman'"> :D - zadowolenie, szczęście </font> </p> <br>
-<p align="left"> <b> Adres: 80-104,</b> <i> Pruszcz Krakowski,</i> <u> Obrońców Niepokoju </u><del> 13,42 </del> </p> <br> 
+<p align="left"> <b> Adres: 80-104,</b> <i> Pruszcz Krakowski,</i> <u> Obrońców Niepokoju </u><s> 13,42 </s> </p> <br> 
 <center> <p> <font color="Yellow" size="5" face="Verdana">Ulubiony aktor: Michael Jackson </font> </p> </center><br> 
 <center> <p> <font color="Gray" size="3" face="Verdana">Ulubiony zespół muzyczny: </font> <font color="red" size="3" face="Verdana">Tally Hall</font> </p> </center><br> 
 <center> <p> <font color="green" size="2" face="Verdana">Data urodzenia: 02.01.2011 </font> </p> </center><br>
