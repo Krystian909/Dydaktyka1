@@ -94,6 +94,9 @@
 <LI> Matlab </LI>
 <LI> Asembler </LI>
 </UL>
+
+<IMG SRC="Naprawa.png" ALIGN=right BORDER=10 ALT="grafika">
+	
 <A HREF="Poczta.html"> Poczta </A><br>
 <A HREF="Pliki.html"> Pliki </A><br>
 <A HREF="Formularz.html"> Formularz </A><br>
