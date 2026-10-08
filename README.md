@@ -95,7 +95,7 @@
 <LI> Asembler </LI>
 </UL>
 
-<IMG SRC="Naprawa.png" BORDER=10 ALT="zrzut eranu Naprawy w HTML">
+<IMG SRC="Naprawa.png" ALT="zrzut eranu Naprawy w HTML"><br />
 	
 <A HREF="Poczta.html"> Poczta </A><br>
 <A HREF="Pliki.html"> Pliki </A><br>
