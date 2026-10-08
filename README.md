@@ -46,8 +46,8 @@
 <hr size="5" width="100%" align=center color=green>
     <h1 ALIGN=left > <br> Dowcip o Pracy </br> </h1>
     <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red>
-<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="">
-<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT=""> 
+<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
+<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
         - Edek, dalej pracujesz? <br />
 - Pracowałem na pół etatu ale mnie zwolnili. <br />
 - Dlaczego? <br />
@@ -59,8 +59,8 @@
 <hr size="5" width="100%" align=center color=green>
     <h1 ALIGN=left > <br> Dowcip o Informatyku </br> </h1>
     <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
-	<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="">
-	<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="">
+	<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
+	<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
         - Co mówi informatyk, gdy uderzy się w mały palec u nogi? <br />
 - Ała! mój bit! <br />
 <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
@@ -69,8 +69,8 @@
 <fieldset>
     <h1 ALIGN=center > <br> Dowcip o Osie </br> </h1>
     <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
-<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT=""> 
-<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT=""> 
+<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
+<IMG SRC="https://giphy.com/gifs/krima-isa-funny-lol-cry-LRZjqB9cdUerUdELtE" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
 - Jak nazwa się duża osa? <br />
 - Bigos! <br />
 <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
