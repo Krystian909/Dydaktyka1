@@ -35,7 +35,7 @@
 <center> <p> <font color="Gray" size="3" face="Verdana">Ulubiony zespół muzyczny: </font> <font color="red" size="3" face="Verdana">Tally Hall</font> </p> </center><br> 
 <center> <p> <font color="green" size="2" face="Verdana">Data urodzenia: 02.01.2011 </font> </p> </center><br>
 <b> <sup> H2SO4 </sup> </b>
-<b> <sub> x*x=x2 </sub> </b>
+<b> <sub> x*x=x2 </sub> </b><br/>
 <body bgcolor="silver">
 <br><A HREF="Poczta.html"> Poczta </A><br>
 <A HREF="Pliki.html"> Pliki </A><br>
@@ -46,8 +46,8 @@
 <hr size="5" width="100%" align=center color=green>
     <h1 ALIGN=left > <br> Dowcip o Pracy </br> </h1>
     <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red>
-<IMG SRC="rysun.gif" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
-<IMG SRC="rysun.gif" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
+<IMG SRC="https://tenor.com/pl/view/brandt-brandt-zwieback-wink-zwinkern-smiley-gif-26659968" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
+<IMG SRC="https://tenor.com/pl/view/brandt-brandt-zwieback-wink-zwinkern-smiley-gif-26659968" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
         - Edek, dalej pracujesz? <br />
 - Pracowałem na pół etatu ale mnie zwolnili. <br />
 - Dlaczego? <br />
@@ -59,8 +59,8 @@
 <hr size="5" width="100%" align=center color=green>
     <h1 ALIGN=left > <br> Dowcip o Informatyku </br> </h1>
     <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
-	<IMG SRC="rysun.gif" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
-	<IMG SRC="rysun.gif" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
+	<IMG SRC="https://tenor.com/pl/view/brandt-brandt-zwieback-wink-zwinkern-smiley-gif-26659968" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
+	<IMG SRC="https://tenor.com/pl/view/brandt-brandt-zwieback-wink-zwinkern-smiley-gif-26659968" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika">
         - Co mówi informatyk, gdy uderzy się w mały palec u nogi? <br />
 - Ała! mój bit! <br />
 <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
@@ -69,8 +69,8 @@
 <fieldset>
     <h1 ALIGN=center > <br> Dowcip o Osie </br> </h1>
     <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
-<IMG SRC="rysun.gif" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
-<IMG SRC="rysun.gif" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
+<IMG SRC="https://tenor.com/pl/view/brandt-brandt-zwieback-wink-zwinkern-smiley-gif-26659968" ALIGN=right BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
+<IMG SRC="https://tenor.com/pl/view/brandt-brandt-zwieback-wink-zwinkern-smiley-gif-26659968" ALIGN=left BORDER=10 WIDTH=102 HEIGHT=102 ALT="grafika"> 
 - Jak nazwa się duża osa? <br />
 - Bigos! <br />
 <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red> 
